@@ -46,6 +46,12 @@ body {
   outline: none;
   cursor: none;
 }
+
+.title {
+  text-align: center;
+  color: white;
+}
+
 main {
   width: 85vw;
   height: 80vh;
