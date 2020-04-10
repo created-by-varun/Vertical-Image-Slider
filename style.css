@@ -210,7 +210,7 @@ main .bg::after {
   font-size: 0.85em;
   width: 100%;
   z-index: 999;
-  text-shadow: 1px 1px 0 #75757547;
+  text-shadow: 1px 1px 3px #7575755b;
   text-align: end;
 }
 .text p {
