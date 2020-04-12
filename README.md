@@ -1,5 +1,5 @@
 # Vertical-Image-Slider
-A modren vertical image slider made with CSS, JS, HTML  
+A modren vertical image slider made with CSS, JS, HTML    
 **Todo:**
 - Replace images
 - Current images load too slowly  
